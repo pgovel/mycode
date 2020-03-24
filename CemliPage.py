@@ -12,7 +12,7 @@ from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import NoSuchElementException
 
 
-CREDENTIALS_LIST = ["praneet.kanduru3@geappliances.com","515123727","k"]
+CREDENTIALS_LIST = ["nagasaikumar.golla@geappliances.com","515120537","NAsa@321ku"]
 now = datetime.now()
 date_time = now.strftime("%m/%d/%Y, %H:%M:%S")
 CEMLI_NAME = os.getenv("CEMLI_SHEET")
